@@ -16,10 +16,16 @@
 </head>
 
 <body>
+<style>
+body {
+  background-image: url('V.png');
+  background-size: cover;
+}
+</style>
     <div class="container">
         <div class="row align-items-center justify-content-center vh-100">
             <div class="col-md-7">
-                <img src="p.png" class="w-50">
+                <img src="k.png" class="w-100">
             </div>
             <div class="col-md-5">
                 <form class="register-form" action="#" method="POST">
